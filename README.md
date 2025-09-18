@@ -10,7 +10,7 @@
 - 🎓 Currently studying **Informatics Engineering**.
 - 💻 Love exploring **new tech, AI, and software development**.  
 - 🎯 Goal: Anything that can make other people happy.
-- ✨ My hobbies is learning something new.
+- ✨ My hobby is learning something new.
 
 ---
 
