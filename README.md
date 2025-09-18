@@ -1,4 +1,4 @@
-<h1 align="center">Waddap yall!</h1>
+<h1 align="center">WELCOME!</h1>
 
 <p align="center">
   🚀 Tech Enthusiast | 🎓 Informatics Engineering Student | 🌱 Lifelong Learner
