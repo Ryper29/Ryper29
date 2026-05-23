@@ -35,14 +35,13 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ryper29&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryper29&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![Rifki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryper29&show_icons=true&theme=tokyonight&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryper29&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 ---
 
 ⭐️ From [Ryper29](https://github.com/Ryper29)
