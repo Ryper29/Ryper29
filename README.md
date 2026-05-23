@@ -34,14 +34,19 @@
 
 ---
 
+---
+
 ### 📊 GitHub Stats
-<div align="center">
 
-![Rifki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryper29&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryper29&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryper29&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryper29&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryper29&theme=tokyonight" />
+</p>
 
-</div>
 ---
 
 ⭐️ From [Ryper29](https://github.com/Ryper29)
