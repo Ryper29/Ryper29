@@ -61,5 +61,3 @@
 </p>
 
 ---
-
-⭐️ From [Ryper29](https://github.com/Ryper29)
